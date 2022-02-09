@@ -4,9 +4,10 @@ I'm a Computer Engineering student with a great passion for web development and 
 
 - 🔭 I’m currently working on personal projects 😁.
 - 🌱 I’m currently learning NextJs & CI/CD.
-- Skills: Javascript, Typescript, SQL, MongoDB, SASS, Styled Components, Firebase & React.
+- 🛠️ Skills: Javascript, Typescript, SQL, MongoDB, SASS, Styled Components, Firebase & React.
 
 - 📫 How to reach me: 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix_Vega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felixvnolasco/)
 
 
