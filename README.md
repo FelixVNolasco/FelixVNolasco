@@ -10,6 +10,6 @@ I'm a Computer Engineering student with a great passion for web development and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix_Vega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felixvnolasco/)
 
-(https://felixvnolasco-portfolio-axef07c3r-felixvnolasco.vercel.app/#)
+📖 [Portfolio](https://felixvnolasco-portfolio-axef07c3r-felixvnolasco.vercel.app/#)
 
 
