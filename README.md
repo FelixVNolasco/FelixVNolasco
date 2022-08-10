@@ -4,7 +4,7 @@ I'm a Computer Science student & Software Developer with a great passion for web
 
 - 🔭 I’m currently working as a Software Developer 😁.
 - 🌱 I’m currently learning about .NET Core & NextJS.
-- 🛠️ Skills: Javascript, Typescript, SQL, MongoDB, SASS, Styled Components, Firebase & React.
+- 🛠️ Skills: Javascript, Typescript, SQL, MongoDB, SASS, TailwindCSS, Styled Components, Firebase & React.
 - 📖 [Portfolio](https://felixvnolasco-portfolio-axef07c3r-felixvnolasco.vercel.app/#)
 - 📫 How to reach me: 
 
