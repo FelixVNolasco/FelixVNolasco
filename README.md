@@ -3,7 +3,7 @@
 I'm a Computer Science student & Software Developer with a great passion for web development and the newest trends in software development..
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning NextJS & Microservices with NodeJs.
+- 🌱 I’m currently learning NextJS & Microservices with .NET.
 - 🛠️ Skills: Javascript, Typescript, SQL, MongoDB, SASS, TailwindCSS, Styled Components, Firebase & React.
 - 📖 [Portfolio](https://felixvnolasco-portfolio.vercel.app/)
 - 📫 How to reach me: 
