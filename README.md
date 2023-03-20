@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Developer with a great passion for web development and the newest trends in software development.
+Software Developer with great passion for web development and the newest trends in software development.
 
 - 🔭 I’m currently working as a Software Developer.
 - 🌱 I’m currently learning NextJS & Microservices with .NET.
